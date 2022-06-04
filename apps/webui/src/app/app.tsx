@@ -2,6 +2,7 @@
 import styles from './app.module.scss';
 
 import { Route, Routes, Link } from 'react-router-dom';
+import { Wallet } from './wallet';
 
 export function App() {
   return (
@@ -9,7 +10,7 @@ export function App() {
 
       <h1>Create an NFT on Cardano blockchain</h1>
 
-    
+      <Wallet />
 
       <br />
       <hr />
