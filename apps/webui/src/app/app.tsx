@@ -8,7 +8,7 @@ export function App() {
   return (
     <>
 
-      <h1>Create an NFT on Cardano blockchain</h1>
+      <h1>Cardano wallet testing</h1>
 
       <Wallet />
 
